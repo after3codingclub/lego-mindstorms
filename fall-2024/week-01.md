@@ -6,6 +6,5 @@
 <h4>Lego Spike Goals</h4>
 <ul><li>Define a problem</li><li>
 Begin to establish criteria that will eventually lead to a solution</li></ul>
-<p>Curriculum Link: https://spike.legoeducation.com/prime/start/</p>
 <p>HELP Lesson Link: https://education.lego.com/en-us/lessons/prime-invention-squad/help/</p>
 
